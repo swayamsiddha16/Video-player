@@ -1,0 +1,40 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.file-Upload-panel{
+    width:100vw;
+    height:20vh;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.btn{
+    width:200px;
+    height:70px;
+}
+.player-btn-container{
+    width:100vw;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    height:10vh;
+}
+.seek-container{
+    width:100vw;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    height: 2vh;
+}
+#seeker{
+    width:70vw;
+}
+.player-container{
+    width:100vw;
+    height:50vh;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
